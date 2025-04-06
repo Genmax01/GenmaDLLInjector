@@ -40,6 +40,8 @@ pip install pywin32, psutil, PyQt6
 
 ## example with pythoninjector.py if you don t want to use the interface:
 ```python
+from src import pythoninjector
+
 dll_name_to_inject = 'myDll.dll'
 
 myInjector = myDllInjector(dll_name_to_inject)
