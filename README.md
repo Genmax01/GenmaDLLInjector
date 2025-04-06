@@ -2,6 +2,9 @@
 Simple tool to inject a .dll into an .exe
 
 You can use the interface, or simply use the pythoninjector.py
+
+![Capture d’écran 2025-04-06 084418](https://github.com/user-attachments/assets/95cb0a37-411a-4223-b82e-c2f4f8b046ec)
+
 ----------------
 # Release standalone version :
 https://github.com/Genmax01/GenmaDLLInjector/releases
