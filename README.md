@@ -4,7 +4,7 @@ Simple tool to inject a .dll into an .exe
 You can use the interface, or simply use the pythoninjector.py
 
 # Setup
-
+----------------
 # 1. Clone the repository:
    ```bash
    git clone https://github.com/Genmax01/GenmaDLLInjector.git
@@ -31,13 +31,14 @@ pip install -r requirements.txt
 python genmaDLLInjector.py
 ```
 
+----------------
 
-# Libraries needed (if you don t use the requirements file):
+## Libraries needed (if you don t use the requirements file):
 ```
 pip install pywin32, psutil, PyQt6  
 ```
 
-## example with pythoninjector.py:
+## example with pythoninjector.py if you don t want to use the interface:
 ```python
 dll_name_to_inject = 'myDll.dll'
 
