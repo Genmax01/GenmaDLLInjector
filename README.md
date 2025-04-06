@@ -1,12 +1,14 @@
-Library needed:
-```
-pip install pywin32, psutil, PyQt6  
-```
+
 Simple tool to inject a .dll into an .exe
 
 You can use the interface, or simply use the pythoninjector.py
 
+Libraries needed:
+```
+pip install pywin32, psutil, PyQt6  
+```
 
+example with pythoninjector.py:
 ```python
 dll_name_to_inject = 'myDll.dll'
 
